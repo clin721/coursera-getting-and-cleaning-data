@@ -13,12 +13,12 @@ There are 5 steps (as outlined in the project description) that were taken to cr
 ## Identifiers
 * subject : the ID given to the subject, ranging from 1 to 30
 * activity : The activity performed while the measurement were taken
-+ LAYING
-+ SITTING
-+ STANDING
-+ WALKING
-+ WALKING_DOWNSTAIRS
-+ WALKING_UPSTAIRS
+    + LAYING
+    + SITTING
+    + STANDING
+    + WALKING
+    + WALKING_DOWNSTAIRS
+    + WALKING_UPSTAIRS
 
 ## Measurements
 * tBodyAcc-mean()-X
